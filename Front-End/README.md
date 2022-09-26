@@ -20,4 +20,6 @@ npm run build
 npm run lint
 ```
 
-### Pada bagian Front End masih ada kendala yaitu dalam insert, update dan delete yang masih belum berfungsi sepenuhnya. Untuk metode GET API sudah berjalan dan berhasil dijalankan tapi yang digunakan pada souce code masih Fake-API tinggal mengganti API nya dengan Url yang telah dibuat Back-End. Namun masih banyak kendala dalam pengejaan tugas ini sehingga akan ada pembaharuan lagi dalam tugas ini terutama bagian source code
+### New Update
+####Untuk update terbaru sudah bisa melakukan DELETE API pada link yang telah diberikan Back-End.
+####Bagian yang masih bermasalah yaitu pada bagian method Insert dan Update yang masih belum bekerja sepenuhnya
